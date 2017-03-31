@@ -43,7 +43,7 @@ setup(
     include_package_data = True,
     test_suite = "Tests",
     keywords = 'vim emacs textmate autocomplete',
-    url = 'http://code.google.com/p/pysmell',
+    url = 'https://github.com/orestis/pysmell',
     long_description =
 """\
 PySmell is a python IDE completion helper. 
